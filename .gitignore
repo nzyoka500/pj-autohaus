@@ -1,0 +1,17 @@
+# Igore files clients/ nodeode_modules/
+clients/node_modules/
+server/node_modules/
+.DS_Store
+*.log
+*.env
+*.pem
+*.key
+*.crt
+*.pfx
+*.cer
+*.csr
+*.der
+*.jks
+*.p12
+*.bak
+*.tmp
